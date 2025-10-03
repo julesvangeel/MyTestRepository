@@ -4,11 +4,6 @@ for the course on 03/10. This text was added locally.
 
 ik voeg lijnen toe bij mijn deerde commit.
 
-<<<<<<< HEAD
 123
 123
 456
-=======
-nieuwe branch, right?
-toch?
->>>>>>> not-enough-lines
