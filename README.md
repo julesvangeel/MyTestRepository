@@ -1,2 +1,3 @@
 # MyTestRepository
-for the course on 03/10
+for the course on 03/10. This text was added locally.
+
